@@ -10,6 +10,8 @@
 
  &nbsp;·&nbsp;[`romanonthego.dev`](https://romanonthego.dev) &nbsp;·&nbsp;
 
+ &nbsp;·&nbsp;[`theseus.run`](https://theseus.run) &nbsp;·&nbsp;
+
  &nbsp;·&nbsp;[`rorschach-protocol.dev`](https://rorschach-protocol.dev) &nbsp;·&nbsp;
 
 ---
