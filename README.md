@@ -10,7 +10,7 @@
 
  &nbsp;·&nbsp;[`romanonthego.dev`](https://romanonthego.dev) &nbsp;·&nbsp;
 
-  &nbsp;·&nbsp;[`loomruntime.dev`](https://loomruntime.dev) &nbsp;·&nbsp;
+  &nbsp;·&nbsp;[`frondruntime.dev`](https://frondruntime.dev) &nbsp;·&nbsp;
 
  &nbsp;·&nbsp;[`theseus.run`](https://theseus.run) &nbsp;·&nbsp;
 
